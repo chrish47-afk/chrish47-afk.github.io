@@ -14,70 +14,75 @@ _August 2018_
 - Bachelor of Arts in Medical Anthropology & Global Health  
 
 **Related Courses and Certifications**  
-University of Washington, 2020-2022  
+University of Washington, 2020-2024  
 - **HMS 520**: Version Control and Data Wrangling for Health Metrics Sciences (2020)
 - **Python Programming** (2021)
 - **Certificate in SQL Server Development** (2022)
+- **Certificate in Big Data Technologies – Data Engineering** (2024-2025)
 
 ---
 
 <details>
   <summary><strong>Professional Experience</strong></summary>
 
-### Data Analyst  
-**Institute for Health Metrics and Evaluation (IHME)**  
-_October 2018 – Present_  
-- Conducted ad-hoc analytical tasks: vetted data pipelines, created visualizations, updated legacy code, and developed code for data verification and quality management.
-- Managed large data bins related to maternal health and infertility, ensuring data consistency across multiple datasets.
-- Led data landscaping initiatives to improve data reliability in maternal health research.
-- Experienced in scientific literature and microdata extractions.
-- Developed new procedures for maternal, STI, and infertility data pipelines.
-- Collaborated with cross-functional teams to enhance data collection accuracy through rigorous validation techniques.
-- Utilized HPC clusters and IDEs for version control, executing R, STATA, and Python code.
+**Intern**  
+_Institute for Health Metrics and Evaluation | January – September 2018_  
+- Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
-### Intern  
-**Institute for Health Metrics and Evaluation**  
-_January – September 2018_  
-- Screened and extracted scientific literature related to Upper Respiratory Infections & Hearing Loss.
+**Data Analyst**  
+_Institute for Health Metrics and Evaluation | October 2018 – Present_  
+- Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.
+- Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.
+- Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.
+- Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.
+- Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.
 
 </details>
 
 ---
 
+## Ventures
+
 <details>
-  <summary><strong>Small Business & Projects</strong></summary>
-
-### Founder & Investor  
-**La Fresnera**  
+  <summary><strong>Founder & Investor | La Fresnera</strong></summary>
+  
 _December 2019 – October 2021_  
-- Launched an organic cacao farming initiative focused on regenerative agriculture.
+- Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
 
-### Founder & Manager  
-**Clear Peak Cleaning Services**  
+</details>
+
+<details>
+  <summary><strong>Founder & Manager | Clear Peak Cleaning Services</strong></summary>
+  
 _December 2023 – Present_  
-- Recruited and trained cleaning staff to ensure high service standards and customer satisfaction.
-- Conducted market analysis to drive customer growth.
-- Oversaw budgeting and financial planning, delegating payroll and administrative tasks for efficiency.
-- Developed marketing content for the company website and social platforms.  
+- Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.
+- Conducted market analysis to identify growth opportunities and expand the customer base.
+- Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.
+- Designed and created marketing content for the company website and other platforms.  
 - [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
 
 </details>
 
 ---
 
-<details>
-  <summary><strong>Skills</strong></summary>
+## Qualifications
 
-### Technical Skills
+<details>
+  <summary><strong>Technical Skills (R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
+
 - **Version Control:** Git, Powershell  
-- **Programming Languages & Libraries:**  
+- **Programming Libraries & Tools:**  
   - **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT  
   - **Python**: NumPy, SciPy, Pandas  
-- **Tools:** Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code  
-- **Platforms:** GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps  
+  - Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code  
+  - Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps  
 
-### Languages
-- **Spanish**: Native Fluency
+</details>
+
+<details>
+  <summary><strong>Small Business Management Skills</strong></summary>
+
+- Experience in entrepreneurship, operations, and employee & client relations.
 
 </details>
 
