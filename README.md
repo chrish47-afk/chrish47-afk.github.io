@@ -60,10 +60,10 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 <details>
   <summary>Details</summary>
   
-  - Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.
-  - Conducted market analysis to identify growth opportunities and expand the customer base.
-  - Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.
-  - Designed and created marketing content for the company website and other platforms.  
+  - Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.<br>
+  - Conducted market analysis to identify growth opportunities and expand the customer base.<br>
+  - Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.<br>
+  - Designed and created marketing content for the company website and other platforms.<br>
   - [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
 
 </details>
@@ -76,12 +76,12 @@ _Clear Peak Cleaning Services | December 2023 – Present_
   <summary><strong>Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
   <br>
 
-- **Version Control:** Git, Powershell  
-- **Programming Libraries & Tools:**  
-  - **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT
-  - **Python**: NumPy, SciPy, Pandas  
-  - Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code  
-  - Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps  
+• **Version Control:** Git, Powershell<br>
+• **Programming Libraries & Tools:**<br>
+  • **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT
+  • **Python**: NumPy, SciPy, Pandas<br>
+  • Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code<br>
+  • Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps<br>
 
 </details>
 
@@ -89,7 +89,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
   <summary><strong>Small Business Management Skills</strong></summary>
   <br>
 
-- Experience in entrepreneurship, operations, and employee & client relations.
+• Experience in entrepreneurship, operations, and employee & client relations.
 
 </details>
 
