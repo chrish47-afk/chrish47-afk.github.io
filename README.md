@@ -22,15 +22,24 @@ University of Washington, 2020-2024
 
 ---
 
-<details>
-  <summary><strong>Professional Experience</strong></summary>
+## Professional Experience
 
 **Intern**  
-_Institute for Health Metrics and Evaluation | January – September 2018_  
+_Institute for Health Metrics and Evaluation | January – September 2018_
+
+<details>
+  <summary>Details</summary>
+
 - Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
+</details>
+
 **Data Analyst**  
-_Institute for Health Metrics and Evaluation | October 2018 – Present_  
+_Institute for Health Metrics and Evaluation | October 2018 – Present_
+
+<details>
+  <summary>Details</summary>
+
 - Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.
 - Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.
 - Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.
