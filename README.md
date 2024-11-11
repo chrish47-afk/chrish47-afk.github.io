@@ -45,25 +45,27 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 ## Ventures
 
+**Founder & Investor**  
+_La Fresnera | December 2019 – October 2021_
+
 <details>
-  <summary><strong>Founder & Investor | La Fresnera</strong></summary>
-  <br>
+  <summary>Details</summary>
   
-_December 2019 – October 2021_  
-- Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
+  - Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
 
 </details>
 
+**Founder & Manager**  
+_Clear Peak Cleaning Services | December 2023 – Present_
+
 <details>
-  <summary><strong>Founder & Manager | Clear Peak Cleaning Services</strong></summary>
-  <br>
+  <summary>Details</summary>
   
-_December 2023 – Present_  
-- Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.  
-- Conducted market analysis to identify growth opportunities and expand the customer base.  
-- Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.  
-- Designed and created marketing content for the company website and other platforms.  
-- [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)  
+  - Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.
+  - Conducted market analysis to identify growth opportunities and expand the customer base.
+  - Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.
+  - Designed and created marketing content for the company website and other platforms.  
+  - [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
 
 </details>
 
