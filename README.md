@@ -21,6 +21,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 
 <details>
   <summary>Details</summary>
+  <br>
 
 - Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
@@ -31,6 +32,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
   <summary>Details</summary>
+  <br>
 
 - Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.  
 - Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.  
@@ -50,6 +52,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
   <summary><strong>Founder & Investor | La Fresnera</strong></summary>
+  <br>
   
 _December 2019 – October 2021_  
 - Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
@@ -58,6 +61,7 @@ _December 2019 – October 2021_
 
 <details>
   <summary><strong>Founder & Manager | Clear Peak Cleaning Services</strong></summary>
+  <br>
   
 _December 2023 – Present_  
 - Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.  
@@ -74,6 +78,7 @@ _December 2023 – Present_
 
 <details>
   <summary><strong>Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
+  <br>
 
 - **Version Control:** Git, Powershell  
 - **Programming Libraries & Tools:**  
@@ -86,6 +91,7 @@ _December 2023 – Present_
 
 <details>
   <summary><strong>Small Business Management Skills</strong></summary>
+  <br>
 
 - Experience in entrepreneurship, operations, and employee & client relations.
 
