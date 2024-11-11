@@ -1,11 +1,3 @@
-# Christian R. Hernandez
-
-**Location:** Vancouver, WA  
-**Phone:** 360-991-3128  
-**Email:** [chrish47@protonmail.com](mailto:chrish47@protonmail.com)
-
----
-
 ## Education
 
 **B.A. - University of Washington**  
@@ -34,7 +26,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 
 </details>
 
-**Data Analyst**  
+**Data Analyst / Data Extraction Analyst**  
 _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
@@ -42,9 +34,13 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 - Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.
 - Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.
-- Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.
-- Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.
+- Led data landscaping initiatives as part of the MMbRF grant, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.
+- Experience in Scientific Literature and Microdata extractions.
+- Ran, transformed, and developed new procedures for maternal, STI, and Infertility data/code pipelines.
+- Collaborated with cross-functional teams to streamline data collection processes and improve data accuracy through comprehensive validation techniques.
 - Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.
+- Conducted rigorous data validation and verification processes to enhance the accuracy and trustworthiness of in-house data, aligning with IHME’s standards for high-confidence data.
+
 
 </details>
 
