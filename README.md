@@ -21,7 +21,6 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 
 <details>
   <summary>Details</summary>
-  <br>
 
 - Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
@@ -33,11 +32,11 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 <details>
   <summary>Details</summary>
   
-  - Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.
-  - Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.
-  - Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.
-  - Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.
-  - Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.
+  - Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.<br>
+  - Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.<br>
+  - Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.<br>
+  - Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.<br>
+  - Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.<br>
 
 </details>
 
