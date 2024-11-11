@@ -22,7 +22,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 <details>
   <summary>Details</summary>
 
-- Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
+• Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
 </details>
 
@@ -32,11 +32,11 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 <details>
   <summary>Details</summary>
   
-  - Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.<br>
-  - Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.<br>
-  - Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.<br>
-  - Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.<br>
-  - Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.<br>
+  • Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.<br>
+  • Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.<br>
+  • Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.<br>
+  • Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.<br>
+  • Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.<br>
 
 </details>
 
@@ -50,7 +50,7 @@ _La Fresnera | December 2019 – October 2021_
 <details>
   <summary>Details</summary>
   
-  - Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
+  • Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
 
 </details>
 
