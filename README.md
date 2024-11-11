@@ -32,14 +32,14 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 <details>
   <summary>Details</summary>
 
-- Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.
-- Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.
-- Led data landscaping initiatives as part of the MMbRF grant, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.
-- Experience in Scientific Literature and Microdata extractions.
-- Ran, transformed, and developed new procedures for maternal, STI, and Infertility data/code pipelines.
-- Collaborated with cross-functional teams to streamline data collection processes and improve data accuracy through comprehensive validation techniques.
-- Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.
-- Conducted rigorous data validation and verification processes to enhance the accuracy and trustworthiness of in-house data, aligning with IHME’s standards for high-confidence data.
+- Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.  
+- Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.  
+- Led data landscaping initiatives as part of the MMbRF grant, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.  
+- Experience in Scientific Literature and Microdata extractions.  
+- Ran, transformed, and developed new procedures for maternal, STI, and Infertility data/code pipelines.  
+- Collaborated with cross-functional teams to streamline data collection processes and improve data accuracy through comprehensive validation techniques.  
+- Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.  
+- Conducted rigorous data validation and verification processes to enhance the accuracy and trustworthiness of in-house data, aligning with IHME’s standards for high-confidence data.  
 
 
 </details>
@@ -60,11 +60,11 @@ _December 2019 – October 2021_
   <summary><strong>Founder & Manager | Clear Peak Cleaning Services</strong></summary>
   
 _December 2023 – Present_  
-- Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.
-- Conducted market analysis to identify growth opportunities and expand the customer base.
-- Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.
+- Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.  
+- Conducted market analysis to identify growth opportunities and expand the customer base.  
+- Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.  
 - Designed and created marketing content for the company website and other platforms.  
-- [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
+- [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)  
 
 </details>
 
@@ -73,11 +73,11 @@ _December 2023 – Present_
 ## Qualifications
 
 <details>
-  <summary><strong>Technical Skills (R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
+  <summary><strong>Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
 
 - **Version Control:** Git, Powershell  
 - **Programming Libraries & Tools:**  
-  - **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT  
+  - **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT
   - **Python**: NumPy, SciPy, Pandas  
   - Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code  
   - Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps  
