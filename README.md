@@ -22,7 +22,9 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 <details>
   <summary>Details</summary>
 
-• Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
+<ul>
+<li>Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.</li>
+</ul>
 
 </details>
 
@@ -96,8 +98,10 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 <details>
   <summary><strong>Details</strong></summary>
-  
+
+  <ul>
   <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
+  </ul>
 
 </details>
 
