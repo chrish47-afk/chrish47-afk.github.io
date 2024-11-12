@@ -1,3 +1,8 @@
 details {
   margin-top: 0;
 }
+
+details summary {
+  padding-top: 0;
+  margin-top: -5px;
+}
