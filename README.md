@@ -20,7 +20,7 @@ University of Washington, 2020-2024
 _Institute for Health Metrics and Evaluation | January – September 2018_
 
 <details>
-  <summary>Details</summary>
+  <summary>Click here</summary>
 
 • Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
@@ -30,7 +30,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
-  <summary>Details</summary>
+  <summary>Click here</summary>
   
   • Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.<br>
   • Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.<br>
@@ -48,7 +48,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 _La Fresnera | December 2019 – October 2021_
 
 <details>
-  <summary>Details</summary>
+  <summary>Click here</summary>
   
   • Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
 
@@ -56,16 +56,13 @@ _La Fresnera | December 2019 – October 2021_
 
 **Founder & Manager**  
 _Clear Peak Cleaning Services | December 2023 – Present_
-
 <details>
-  <summary>Details</summary>
-  
+  <summary>Click here</summary>
   - Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.<br>
   - Conducted market analysis to identify growth opportunities and expand the customer base.<br>
   - Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.<br>
   - Designed and created marketing content for the company website and other platforms.<br>
   - [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
-
 </details>
 
 ---
@@ -74,10 +71,9 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 <details>
   <summary><strong>Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
-  <br>
 
-• **Version Control:** Git, Powershell<br>
-• **Programming Libraries & Tools:**<br>
+**Version Control:** Git, Powershell<br>
+**Programming Libraries & Tools:**<br>
   • **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT
   • **Python**: NumPy, SciPy, Pandas<br>
   • Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code<br>
@@ -94,5 +90,3 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 </details>
 
 ---
-
-For the complete resume, [Download Here](link-to-your-resume.pdf)
