@@ -90,8 +90,8 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 <details>
   <summary><strong>Details</strong></summary>
-
-• Experience in entrepreneurship, operations, and employee & client relations.
+  
+  <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
 
 </details>
 
