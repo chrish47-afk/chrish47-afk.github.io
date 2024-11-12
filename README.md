@@ -10,7 +10,7 @@ University of Washington, 2020-2024
 - **HMS 520**: Version Control and Data Wrangling for Health Metrics Sciences (2020)
 - **Python Programming** (2021)
 - **Certificate in SQL Server Development** (2022)
-- **Certificate in Big Data Technologies – Data Engineering** (2024-2025)
+- **Certificate in Big Data Technologies – Data Engineering** (2025)
 
 ---
 
