@@ -20,7 +20,7 @@ University of Washington, 2020-2024
 _Institute for Health Metrics and Evaluation | January – September 2018_
 
 <details>
-  <summary><strong>Details</strong>strong></summary>
+  <summary><strong>Details</strong></summary>
 
 <ul>
 <li>Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.</li>
@@ -32,7 +32,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
-  <summary><strong>Details</strong>strong></summary>
+  <summary><strong>Details</strong></summary>
   
   <ul>
   <li>Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.</li>
@@ -52,7 +52,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 _La Fresnera | December 2019 – October 2021_
 
 <details>
-  <summary><strong>Details</strong>strong></summary>
+  <summary><strong>Details</strong></summary>
   
 <ul>  
 <li>Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.</li>
@@ -64,14 +64,14 @@ _La Fresnera | December 2019 – October 2021_
 _Clear Peak Cleaning Services | December 2023 – Present_
 
 <details>
-  <summary><strong>Details</strong>strong></summary>
+  <summary><strong>Details</strong></summary>
   
   <ul>
   <li>Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.</li>
   <li>Conducted market analysis to identify growth opportunities and expand the customer base.</li>
   <li>Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.</li>
   <li>Designed and created marketing content for the company website and other platforms.</li>
-  <li>[Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)</li>
+  <li><a href="https://clearpeakcleaning.com" target="_blank">Visit Clear Peak Cleaning Services</a></li>
   </ul>
   
 </details>
@@ -100,5 +100,11 @@ _Clear Peak Cleaning Services | December 2023 – Present_
   <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
   </ul>
 </details>
+
+---
+
+## Projects
+
+
 
 ---
