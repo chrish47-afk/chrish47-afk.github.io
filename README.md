@@ -2,15 +2,15 @@
 
 **B.A. - University of Washington, Seattle**  
 _August 2018_  
-- **Bachelor of Arts in Chemistry**  
-- **Bachelor of Arts in Medical Anthropology & Global Health**  
+- Bachelor of Arts in Chemistry  
+- Bachelor of Arts in Medical Anthropology & Global Health  
 
 **Related Courses and Certifications**  
-**University of Washington, 2020-2024**  
-- **UW, HMS 520: R, Version Control and Data Wrangling for Health Metrics Sciences (2020)**  
-- **Python Programming: UW Python Programming I/II (2021)**  
-- **UW PCE, Certificate in SQL Server Development (2022)**  
-- **UW PCE, Certificate in Big Data Technologies – Data Engineering (2025)**  
+- UW Course, HMS 520: R, Version Control and Data Wrangling for Health Metrics Sciences (2020)  
+- UW PCE, Python Programming: UW Python Programming I/II (2021)  
+- UW PCE, Certificate in SQL Server Development (2022)  
+- ChatGPT for Data Analytics with Luke Barousse (2024)  
+- UW PCE, Certificate in Big Data Technologies – Data Engineering (2024-2025)  
 
 ---
 
