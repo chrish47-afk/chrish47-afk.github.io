@@ -10,7 +10,7 @@ University of Washington, 2020-2024
 - **HMS 520**: Version Control and Data Wrangling for Health Metrics Sciences (2020)
 - **Python Programming** (2021)
 - **Certificate in SQL Server Development** (2022)
-- **Certificate in Big Data Technologies – Data Engineering** (2024-2025)
+- **Certificate in Big Data Technologies – Data Engineering** (2025)
 
 ---
 
@@ -81,7 +81,6 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 ## Qualifications
 
 <strong>Technical Skills</strong>: R, Python, SQL, Spark, Scala, Microsoft Applications
-
 <details>
   <summary><strong>Details</strong></summary>
   <p><strong>Version Control</strong>: Git, Powershell</p>
@@ -95,14 +94,11 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 </details>
 
 **Small Business Management Skills**
-
 <details>
   <summary><strong>Details</strong></summary>
-
   <ul>
   <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
   </ul>
-
 </details>
 
 ---
