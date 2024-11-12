@@ -60,11 +60,13 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 <details>
   <summary>Details</summary>
   
-  • Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.<br>
-  • Conducted market analysis to identify growth opportunities and expand the customer base.<br>
-  • Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.<br>
-  • Designed and created marketing content for the company website and other platforms.<br>
-  • [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
+  <ul>
+  <li>Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.</li>
+  <li>Conducted market analysis to identify growth opportunities and expand the customer base.</li>
+  <li>Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.</li>
+  <li>Designed and created marketing content for the company website and other platforms.</li>
+  <li>[Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)</li>
+  </ul>
   
 </details>
 
