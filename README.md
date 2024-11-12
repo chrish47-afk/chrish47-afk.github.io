@@ -7,8 +7,8 @@ _August 2018_
 
 **Related Courses and Certifications**  
 University of Washington, 2020-2024  
-- **HMS 520**: Version Control and Data Wrangling for Health Metrics Sciences (2020)
-- **Python Programming** (2021)
+- **HMS 520**: R, Version Control and Data Wrangling for Health Metrics Sciences (2020)
+- **Python Programming** UW Python Programming I/II (2021)
 - **Certificate in SQL Server Development** (2022)
 - **Certificate in Big Data Technologies – Data Engineering** (2025)
 
@@ -20,7 +20,7 @@ University of Washington, 2020-2024
 _Institute for Health Metrics and Evaluation | January – September 2018_
 
 <details>
-  <summary>Details</summary>
+  <summary><strong>Details</strong>strong></summary>
 
 <ul>
 <li>Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.</li>
@@ -32,7 +32,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
-  <summary>Details</summary>
+  <summary><strong>Details</strong>strong></summary>
   
   <ul>
   <li>Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.</li>
@@ -52,7 +52,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 _La Fresnera | December 2019 – October 2021_
 
 <details>
-  <summary>Details</summary>
+  <summary><strong>Details</strong>strong></summary>
   
 <ul>  
 <li>Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.</li>
@@ -64,7 +64,7 @@ _La Fresnera | December 2019 – October 2021_
 _Clear Peak Cleaning Services | December 2023 – Present_
 
 <details>
-  <summary>Details</summary>
+  <summary><strong>Details</strong>strong></summary>
   
   <ul>
   <li>Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.</li>
@@ -80,7 +80,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ## Qualifications
 
-<strong>Technical Skills</strong>: R, Python, SQL, Spark, Scala, Microsoft Applications
+<strong>Technical Skills: R, Python, SQL, Spark, Scala, Microsoft Applications</strong>
 <details>
   <summary><strong>Details</strong></summary>
   <p><strong>Version Control</strong>: Git, Powershell</p>
