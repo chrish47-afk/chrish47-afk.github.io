@@ -10,7 +10,7 @@ University of Washington, 2020-2024
 - **HMS 520**: Version Control and Data Wrangling for Health Metrics Sciences (2020)
 - **Python Programming** (2021)
 - **Certificate in SQL Server Development** (2022)
-- **Certificate in Big Data Technologies – Data Engineering** (2025)
+- **Certificate in Big Data Technologies – Data Engineering** (2024-2025)
 
 ---
 
@@ -56,21 +56,26 @@ _La Fresnera | December 2019 – October 2021_
 
 **Founder & Manager**  
 _Clear Peak Cleaning Services | December 2023 – Present_
+
 <details>
   <summary>Click here</summary>
-  - Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.<br>
-  - Conducted market analysis to identify growth opportunities and expand the customer base.<br>
-  - Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.<br>
-  - Designed and created marketing content for the company website and other platforms.<br>
-  - [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
+  
+  • Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.<br>
+  • Conducted market analysis to identify growth opportunities and expand the customer base.<br>
+  • Managed budgeting, financial planning, and expense management to ensure profitability, while outsourcing administrative duties such as payroll management.<br>
+  • Designed and created marketing content for the company website and other platforms.<br>
+  • [Visit Clear Peak Cleaning Services](https://clearpeakcleaning.com)
+  
 </details>
 
 ---
 
 ## Qualifications
 
+**Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)**
+
 <details>
-  <summary><strong>Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)</strong></summary>
+  <summary><strong>Click here</strong></summary>
 
 **Version Control:** Git, Powershell<br>
 **Programming Libraries & Tools:**<br>
@@ -81,8 +86,10 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 </details>
 
+**Small Business Management Skills**
+
 <details>
-  <summary><strong>Small Business Management Skills</strong></summary>
+  <summary><strong>Click here</strong></summary>
   <br>
 
 • Experience in entrepreneurship, operations, and employee & client relations.
