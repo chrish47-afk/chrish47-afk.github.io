@@ -20,7 +20,7 @@ University of Washington, 2020-2024
 _Institute for Health Metrics and Evaluation | January – September 2018_
 
 <details>
-  <summary>Click here</summary>
+  <summary>Details</summary>
 
 • Performed Upper Respiratory Infections & Hearing Loss scientific literature screenings and extractions.
 
@@ -30,7 +30,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 <details>
-  <summary>Click here</summary>
+  <summary>Details</summary>
   
   • Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.<br>
   • Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.<br>
@@ -48,7 +48,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 _La Fresnera | December 2019 – October 2021_
 
 <details>
-  <summary>Click here</summary>
+  <summary>Details</summary>
   
   • Mission-driven startup for the growth of Organic Cacao Farming & Regenerative Agriculture.
 
@@ -58,7 +58,7 @@ _La Fresnera | December 2019 – October 2021_
 _Clear Peak Cleaning Services | December 2023 – Present_
 
 <details>
-  <summary>Click here</summary>
+  <summary>Details</summary>
   
   • Recruited, trained, and supervised a team of cleaning staff, ensuring high standards of service and customer satisfaction.<br>
   • Conducted market analysis to identify growth opportunities and expand the customer base.<br>
@@ -72,14 +72,15 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ## Qualifications
 
-**Technical Skills : R, Python, SQL, Spark, Scala, Microsoft Applications)**
+**Technical Skills**: R, Python, SQL, Spark, Scala, Microsoft Applications
 
 <details>
-  <summary><strong>Click here</strong></summary>
+  <summary><strong>Details</strong></summary>
+  <br>
 
-**Version Control:** Git, Powershell<br>
-**Programming Libraries & Tools:**<br>
-  • **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT
+  **Version Control**: Git, Powershell<br>
+  **Programming Libraries & Tools**:<br>
+  • **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT<br>
   • **Python**: NumPy, SciPy, Pandas<br>
   • Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code<br>
   • Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps<br>
@@ -89,8 +90,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 **Small Business Management Skills**
 
 <details>
-  <summary><strong>Click here</strong></summary>
-  <br>
+  <summary><strong>Details</strong></summary>
 
 • Experience in entrepreneurship, operations, and employee & client relations.
 
