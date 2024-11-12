@@ -72,19 +72,18 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ## Qualifications
 
-**Technical Skills**: R, Python, SQL, Spark, Scala, Microsoft Applications
+<strong>Technical Skills</strong>: R, Python, SQL, Spark, Scala, Microsoft Applications
 
 <details>
   <summary><strong>Details</strong></summary>
-  <br>
-
-  **Version Control**: Git, Powershell<br>
-  **Programming Libraries & Tools**:<br>
-  • **R**: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT<br>
-  • **Python**: NumPy, SciPy, Pandas<br>
-  • Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code<br>
-  • Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps<br>
-
+  <p><strong>Version Control</strong>: Git, Powershell</p>
+  <p><strong>Programming Libraries & Tools:</strong></p>
+  <ul>
+    <li><strong>R</strong>: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT</li>
+    <li><strong>Python</strong>: NumPy, SciPy, Pandas</li>
+    <li>Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code</li>
+    <li>Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps</li>
+  </ul>
 </details>
 
 **Small Business Management Skills**
