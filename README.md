@@ -112,7 +112,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 - Delivered insights into immigration's demographic and societal impacts, supported by clear visualizations and detailed analysis.
 - Optimized scripts for efficiency and scalability while addressing data inconsistencies, creating a foundation for future research on economic and policy implications.
 - **Pitfall:** Greater effort was needed to vet variable codes, leaving some questions unanswered as the focus was on building the code and pipeline.
-
+![Project Overview](images/US_pop_foreign_bar.jpg)
 
 
 ---
