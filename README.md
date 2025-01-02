@@ -104,7 +104,15 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 ---
 
 ## Projects
-## Editing this section now
+### Project: Analyzing Immigration Trends and Impacts in the U.S.
+[GitHub Repository](https://github.com/chrish47-afk/census_dhs_project)
+- Conducted a comprehensive analysis of U.S. immigration trends using data from the American Community Survey (ACS5) and DHS Yearbook of Immigration Statistics.
+- Leveraged **Python** for data extraction, **Azure Databricks** and **Scala** for large-scale data processing, and **Excel** for validation and visualization.
+- Built a robust dataset (0.7GB) containing over 350,000 records to explore demographic shifts, including the distribution of foreign-born populations and lawful permanent residents.
+- Delivered insights into immigration's demographic and societal impacts, supported by clear visualizations and detailed analysis.
+- Optimized scripts for efficiency and scalability while addressing data inconsistencies, creating a foundation for future research on economic and policy implications.
+- **Pitfall:** Greater effort was needed to vet variable codes, leaving some questions unanswered as the focus was on building the code and pipeline.
+
 
 
 ---
