@@ -116,3 +116,11 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 
 ---
+
+## Project: Extracted and visualized Tax Deed data from public sources.
+- Data: Location, appraisal/minimum value, and sale price.
+- Tools: Python (data extraction, processing), Power BI (dashboard visualization).
+- Outcome: Automated insights for efficient decision-making.
+![PowerBI_Overview](images/PowerBI_Tax_Deed.jpg)
+
+---
