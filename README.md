@@ -121,6 +121,6 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 - Data: Location, appraisal/minimum value, and sale price.
 - Tools: Python (data extraction, processing), Power BI (dashboard visualization).
 - Outcome: Automated insights for efficient decision-making.
-![PowerBI_Overview](images/PowerBI_Tax_Deed.jpg)
+![PowerBI_Overview](images/PowerBI_Tax_Deed.png)
 
 ---
