@@ -80,24 +80,32 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ## Qualifications
 
-<strong>Technical Skills: R, Python, SQL, Spark, Scala, Microsoft Applications</strong>
+### **Technical Skills**
+**Programming & Data Analytics:** R, Python, SQL, Scala, Spark  
+**Data Visualization & BI Tools:** Power BI, Microsoft Applications  
+**Big Data & Cloud Platforms:** Apache Spark, Apache Hadoop  
+**Version Control:** Git, PowerShell  
+
 <details>
   <summary><strong>Details</strong></summary>
-  <p><strong>Version Control</strong>: Git, Powershell</p>
   <p><strong>Programming Libraries & Tools:</strong></p>
   <ul>
-    <li><strong>R</strong>: dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT</li>
-    <li><strong>Python</strong>: NumPy, SciPy, Pandas</li>
-    <li>Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code</li>
+    <li><strong>R:</strong> dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT</li>
+    <li><strong>Python:</strong> NumPy, SciPy, Pandas</li>
+    <li><strong>Scala:</strong> Apache Spark, MLlib</li>
+    <li>Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code, Power BI</li>
     <li>Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps</li>
   </ul>
 </details>
 
-**Small Business Management Skills**
+### **Small Business Management Skills**
 <details>
   <summary><strong>Details</strong></summary>
   <ul>
-  <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
+    <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
+    <li>Responsible for marketing strategy, including branding and digital outreach.</li>
+    <li>Managed contractor vetting and hiring processes to ensure quality service delivery.</li>
+    <li>Maintained and optimized the company website for usability and engagement.</li>
   </ul>
 </details>
 
