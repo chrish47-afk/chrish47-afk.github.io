@@ -40,13 +40,14 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
   <li>Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.</li>
   <li>Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.</li>
   <li>Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.</li>
+  <li>Conducted rigorous data validation and verification processes to enhance the accuracy and trustworthiness of in-house data, aligning with IHME’s standards for high-confidence data.</li>
   </ul>
 
 </details>
 
 ---
 
-## Ventures
+## Ventures and Small Business
 
 **Founder & Investor**  
 _La Fresnera | December 2019 – October 2021_
@@ -81,10 +82,11 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 ## Qualifications
 
 ### **Technical Skills**
-**Programming & Data Analytics:** R, Python, SQL, Scala, Spark  
+**Programming & Data Analytics:** R (dplyr, tidyverse, ggplot2), Python (NumPy, SciPy, Pandas), SQL, Scala, Spark  
 **Data Visualization & BI Tools:** Power BI, Microsoft Applications  
 **Big Data & Cloud Platforms:** Apache Spark, Apache Hadoop  
 **Version Control:** Git, PowerShell  
+**Additional Tools:** Canva, Squarespace UX, BookingKoala (Website Builder), PubMed, and GHDx  
 
 <details>
   <summary><strong>Details</strong></summary>
