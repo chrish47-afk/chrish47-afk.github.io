@@ -95,7 +95,8 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 - Managed contractor vetting and hiring processes to ensure quality service delivery.  
 - Maintained and optimized the company website for usability and engagement.
 
-### **Languages**: English and Spanish (Native Fluency)
+### **Languages**:
+- English and Spanish (Native Fluency)
 
 ---
 
