@@ -38,6 +38,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
   <li>Conducted ad-hoc analytical work, including vetting data pipelines, creating visualizations, updating legacy code, and developing code for data verification and quality management.</li>
   <li>Managed and maintained the integrity of large data bins focused on maternal causes (both nonfatal and fatal) and infertility, ensuring data consistency across multiple datasets.</li>
   <li>Led data landscaping initiatives, identifying gaps, inconsistencies, and opportunities for enhanced data reliability in maternal health research.</li>
+  <li>Experience in Scientific Literature and Microdata extractions.</li>
   <li>Ran, transformed, and developed new procedures for maternal, STI, and infertility data/code pipelines.</li>
   <li>Utilized HPC clusters and IDEs for version control and running R, STATA, and Python code.</li>
   <li>Conducted rigorous data validation and verification processes to enhance the accuracy and trustworthiness of in-house data, aligning with IHME’s standards for high-confidence data.</li>
@@ -82,34 +83,19 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 ## Qualifications
 
 ### **Technical Skills**
-**Programming & Data Analytics:** R (dplyr, tidyverse, ggplot2), Python (NumPy, SciPy, Pandas), SQL, Scala, Spark  
-**Data Visualization & BI Tools:** Power BI, Microsoft Applications  
-**Big Data & Cloud Platforms:** Apache Spark, Apache Hadoop  
-**Version Control:** Git, PowerShell  
-**Additional Tools:** Canva, Squarespace UX, BookingKoala (Website Builder), PubMed, and GHDx  
-
-<details>
-  <summary><strong>Details</strong></summary>
-  <p><strong>Programming Libraries & Tools:</strong></p>
-  <ul>
-    <li><strong>R:</strong> dplyr, tidyverse, plyr, devtools, ggplot2, data.table, DT</li>
-    <li><strong>Python:</strong> NumPy, SciPy, Pandas</li>
-    <li><strong>Scala:</strong> Apache Spark, MLlib</li>
-    <li>Tools: Jupyter Lab, R Studio, Anaconda, SSMS, Visual Studio/Code, Power BI</li>
-    <li>Platforms: GHDx, PubMed, Canva, Squarespace UX, Gusto, BookingKoala, Mailchimp, Adobe graphic design apps</li>
-  </ul>
-</details>
+- **Programming & Data Analytics:** R (dplyr, tidyverse, ggplot2), Python (NumPy, SciPy, Pandas), SQL, Scala, Spark  
+- **Data Visualization & BI Tools:** Power BI, Microsoft Applications  
+- **Big Data & Cloud Platforms:** Apache Spark, Apache Hadoop  
+- **Version Control:** Git, PowerShell  
+- **Additional Tools:** Canva, Squarespace UX, BookingKoala (Website Builder), PubMed, and GHDx  
 
 ### **Small Business Management Skills**
-<details>
-  <summary><strong>Details</strong></summary>
-  <ul>
-    <li>Experience in entrepreneurship, operations, and employee & client relations.</li>
-    <li>Responsible for marketing strategy, including branding and digital outreach.</li>
-    <li>Managed contractor vetting and hiring processes to ensure quality service delivery.</li>
-    <li>Maintained and optimized the company website for usability and engagement.</li>
-  </ul>
-</details>
+- Experience in entrepreneurship, operations, and employee & client relations.  
+- Responsible for marketing strategy, including branding and digital outreach.  
+- Managed contractor vetting and hiring processes to ensure quality service delivery.  
+- Maintained and optimized the company website for usability and engagement.
+
+### **Languages**: English and Spanish (Native Fluency)
 
 ---
 
