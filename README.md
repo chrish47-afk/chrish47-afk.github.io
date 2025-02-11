@@ -85,7 +85,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 ### **Technical Skills**
 - **Programming & Data Analytics:** R (dplyr, tidyverse, ggplot2), Python (NumPy, SciPy, Pandas), SQL, Scala, Spark  
 - **Data Visualization & BI Tools:** Power BI, Microsoft Applications  
-- **Big Data & Cloud Platforms:** Apache Spark, Apache Hadoop  
+- **Big Data & Cloud Platforms:** Apache Spark, Apache Hadoop, Azure Databricks, Cassandra  
 - **Version Control:** Git, PowerShell  
 - **Additional Tools:** Canva, Squarespace UX, BookingKoala (Website Builder), PubMed, and GHDx  
 
