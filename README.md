@@ -8,9 +8,9 @@ _August 2018_
 **Related Courses and Certifications**  
 - UW Course, HMS 520<sup>[*](https://www.washington.edu/students/crscat/hms.html)</sup>: R, Version Control and Data Wrangling for Health Metrics Sciences (2020)  
 - UW PCE<sup>[*](https://www.pce.uw.edu/)</sup>, Python Programming: UW Python Programming I/II (2021)  
-- UW PCE<sup>[*](https://www.pce.uw.edu/)</sup>, Certificate in SQL Server Development (2022)  
+- UW PCE<sup>[*](https://www.pce.uw.edu/certificates/sql-server-database-development)</sup>, Certificate in SQL Server Development (2022)  
 - ChatGPT for Data Analytics with Luke Barousse (2024)  
-- UW PCE<sup>[*](https://www.pce.uw.edu/)</sup>, Certificate in Big Data Technologies – Data Engineering (2024-2025)  
+- UW PCE<sup>[*](https://www.pce.uw.edu/certificates/big-data-technologies)</sup>, Certificate in Big Data Technologies (2024-2025)  
 
 ---
 
