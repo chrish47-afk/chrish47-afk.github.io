@@ -1,4 +1,4 @@
-## Education
+## EDUCATION
 
 **B.A. -  UNIVERSITY OF WASHINGTON, SEATTLE, WA - 2018**  
 _August 2018_  
