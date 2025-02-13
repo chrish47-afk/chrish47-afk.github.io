@@ -1,11 +1,11 @@
 ## Education
 
-**B.A. - University of Washington, Seattle**  
+**B.A. -  UNIVERSITY OF WASHINGTON, SEATTLE, WA - 2018**  
 _August 2018_  
 - Bachelor of Arts in Chemistry  
 - Bachelor of Arts in Medical Anthropology & Global Health  
 
-**Related Courses and Certifications**  
+**RELATED COURSES AND CERTIFICATIONS**  
 - UW Course, HMS 520<sup>[*](https://www.washington.edu/students/crscat/hms.html)</sup>: R, Version Control and Data Wrangling for Health Metrics Sciences (2020)  
 - UW PCE<sup>[*](https://www.pce.uw.edu/)</sup>, Python Programming: UW Python Programming I/II (2021)  
 - UW PCE<sup>[*](https://www.pce.uw.edu/certificates/sql-server-database-development)</sup>, Certificate in SQL Server Development (2022)  
@@ -14,10 +14,10 @@ _August 2018_
 
 ---
 
-## Professional Experience
+## PROFESSIONAL EXPERIENCE
 
 **Intern**  
-_Institute for Health Metrics and Evaluation | January – September 2018_
+_Institute for Health Metrics and Evaluation, Seattle, WA | January – September 2018_
 
 <details>
   <summary><strong>Details</strong></summary>
@@ -29,7 +29,7 @@ _Institute for Health Metrics and Evaluation | January – September 2018_
 </details>
 
 **Data Analyst / Data Extraction Analyst**  
-_Institute for Health Metrics and Evaluation | October 2018 – Present_
+_Institute for Health Metrics and Evaluation, Seattle, WA | October 2018 – Present_
 
 <details>
   <summary><strong>Details</strong></summary>
@@ -48,7 +48,7 @@ _Institute for Health Metrics and Evaluation | October 2018 – Present_
 
 ---
 
-## Ventures and Small Business
+## VENTURES AND SMALL BUSINESS
 
 **Founder & Investor**  
 _La Fresnera | December 2019 – October 2021_
@@ -80,7 +80,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ---
 
-## Qualifications
+## QUALIFICATIONS
 
 ### **Technical Skills**
 - **Programming & Data Analytics:** R (dplyr, tidyverse, ggplot2), Python (NumPy, SciPy, Pandas), SQL, Scala, Spark  
@@ -100,7 +100,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ---
 
-## Projects
+## PROJECTS
 ### Project: Analyzing Immigration Trends and Impacts in the U.S.
 [GitHub Repository](https://github.com/chrish47-afk/census_dhs_project)
 - Conducted a comprehensive analysis of U.S. immigration trends using data from the American Community Survey (ACS5) and DHS Yearbook of Immigration Statistics.
