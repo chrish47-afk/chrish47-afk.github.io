@@ -116,9 +116,15 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ### Project: Extracted and visualized Tax Deed data from public sources.
 [Tax Deed Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzU0ZGYxMTgtZGJmZi00ODUwLWFkZDMtMGQ2YTUwNzNlYTJjIiwidCI6IjAxOTRiYjhiLTc4MGMtNDhkZS04YTdlLWU2YTA4MmQ1ODQ4YSIsImMiOjZ9)
+[GitHub Repository](https://github.com/chrish47-afk/PowerBI/tree/main/Tax%20Deeds)
 - Data: Location details, appraisal/minimum value, and sale price.
 - Tools: **Python** (data extraction & processing), **Power BI** (dashboard visualization).
 - Outcome: Automated data insights to enhance decision-making efficiency.
 [![PowerBI_Overview](images/PowerBI_Tax_Deed.png)](https://app.powerbi.com/view?r=eyJrIjoiNzU0ZGYxMTgtZGJmZi00ODUwLWFkZDMtMGQ2YTUwNzNlYTJjIiwidCI6IjAxOTRiYjhiLTc4MGMtNDhkZS04YTdlLWU2YTA4MmQ1ODQ4YSIsImMiOjZ9)
+
+---
+
+## Notes and Resources
+**Cassandra, Hashing** [Here](https://github.com/chrish47-afk/BigData/blob/main/Databricks/Cassandra_Hashing%202025-02-17%2016_16_14.ipynb)
 
 ---
