@@ -125,6 +125,6 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 ---
 
 ## Notes and Resources
-**Cassandra, Hashing** [Here](https://github.com/chrish47-afk/BigData/blob/main/Databricks/Cassandra_Hashing%202025-02-17%2016_16_14.ipynb)
+[Cassandra, Hashing](https://github.com/chrish47-afk/BigData/blob/main/Databricks/Cassandra_Hashing%202025-02-17%2016_16_14.ipynb)
 
 ---
