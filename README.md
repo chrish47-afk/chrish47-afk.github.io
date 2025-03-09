@@ -126,7 +126,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 
 ## Notes and Resources
 [Cassandra, Hashing](https://github.com/chrish47-afk/BigData/blob/main/Databricks/Cassandra_Hashing%202025-02-17%2016_16_14.ipynb)  
-[SQL Merged Notes](https://github.com/chrish47-afk/Notes_Resources/blob/main/SQL%20Merged%20Notes.docx)
+[SQL Merged Notes](https://github.com/chrish47-afk/Notes_Resources/blob/main/SQL%20Merged%20Notes.docx) [A/B Testing](https://github.com/chrish47-afk/Python/blob/main/Practice_and_Roles/python_AB_testing.ipynb)
 [SQL Cheatsheet](https://github.com/chrish47-afk/Notes_Resources/blob/main/SQL_Cheatsheet.xlsx)
 
 ---
