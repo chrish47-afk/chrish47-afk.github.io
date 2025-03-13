@@ -129,5 +129,6 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 [SQL Merged Notes](https://github.com/chrish47-afk/Notes_Resources/blob/main/SQL%20Merged%20Notes.docx)
 [SQL Cheatsheet](https://github.com/chrish47-afk/Notes_Resources/blob/main/SQL_Cheatsheet.xlsx)
 [A/B Testing](https://github.com/chrish47-afk/Python/blob/main/Practice_and_Roles/python_AB_testing.ipynb)
+[R...](https://github.com/chrish47-afk/R.git)
 
 ---
