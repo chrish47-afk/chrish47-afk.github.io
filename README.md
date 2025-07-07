@@ -111,27 +111,15 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 - **Pitfall:** Greater effort was needed to vet variable codes, leaving some questions unanswered as the focus was on building the code and pipeline.
 [![Project Overview](images/US_pop_foreign_bar.jpg)](https://github.com/chrish47-afk/census_dhs_project)
 
-### Project: My Coinbase Interests, Real-Time Streaming Pipeline.
-[GitHub Repository](https://github.com/chrish47-afk/coinbase_streaming_project)
-1. Data Source – Coinbase WebSocket API  
-- Subscribes to live ticker updates for `BTC-USD`, `ETH-USD`, and `ADA-USD`  
-- Receives JSON payloads with fields like `price`, `product_id`, and `time`  
-2. Kafka Producer  
-- Forwards each WebSocket message to **Azure Kafka (Event Hub)**  
-- Uses topic: `chrish47`  
-3. Azure Databricks – Structured Streaming  
-- Consumes Kafka stream using `readStream`  
-- Parses JSON and converts `time` to `TimestampType`  
-- Applies watermarking and optional windowed aggregations  
-- Writes to two **Delta Lake tables**:  
-  - `coinbase_ticker_table` for raw vetting  
-  - `coinbase_agg_table` for dashboarding  
-4. Delta Tables  
-- Stores processed data in Delta Lake format  
-- Supports SQL querying and Power BI integration  
-5. Power BI  
-- Connects via Azure Databricks SQL Warehouse or Synapse  
-- Displays real-time or near-real-time dashboards with periodic refreshes  
+### Project: Real-Time Crypto Ticker Streaming and Dashboard  
+[GitHub Repository](https://github.com/chrish47-afk/crypto-streaming-dashboard)
+- Developed a real-time data pipeline to stream live cryptocurrency prices (`BTC-USD`, `ETH-USD`, `ADA-USD`) using the **Coinbase WebSocket API**.
+- Implemented a **Kafka Producer** to ingest and forward JSON payloads into **Azure Event Hubs**, maintaining high-throughput, low-latency data flow.
+- Utilized **Azure Databricks** and **Structured Streaming (PySpark)** to process Kafka events, convert timestamps, apply watermarks, and perform windowed aggregations.
+- Stored both raw and aggregated data in **Delta Lake tables** (`coinbase_ticker_table`, `coinbase_agg_table`) for vetting and visualization purposes.
+- Connected **Power BI** to Databricks SQL Warehouse to create real-time or near-real-time dashboards for price monitoring and trend analysis.
+- Ensured scalability and reliability by using cloud-native tools across ingestion, processing, and visualization layers.
+- **Pitfall:** Power BI required periodic refreshes rather than fully real-time visuals without a premium setup, limiting some monitoring capabilities.
 
 ---
 
