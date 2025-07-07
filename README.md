@@ -112,7 +112,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 [![Project Overview](images/US_pop_foreign_bar.jpg)](https://github.com/chrish47-afk/census_dhs_project)
 
 ### Project: My Coinbase Interests, Real-Time Streaming Pipeline.
-[https://github.com/chrish47-afk/coinbase_streaming_project]
+[GitHub Repository](https://github.com/chrish47-afk/coinbase_streaming_project)
 1. Data Source – Coinbase WebSocket API  
 - Subscribes to live ticker updates for `BTC-USD`, `ETH-USD`, and `ADA-USD`  
 - Receives JSON payloads with fields like `price`, `product_id`, and `time`  
