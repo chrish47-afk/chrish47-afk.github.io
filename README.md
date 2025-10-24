@@ -112,7 +112,7 @@ _Clear Peak Cleaning Services | December 2023 – Present_
 [![Project Overview](images/US_pop_foreign_bar.jpg)](https://github.com/chrish47-afk/census_dhs_project)
 
 ### Project: Real-Time Crypto Ticker Streaming and Dashboard  
-[GitHub Repository](https://github.com/chrish47-afk/crypto-streaming-dashboard)
+[GitHub Repository](https://github.com/chrish47-afk/coinbase_streaming_project)
 - Developed a real-time data pipeline to stream live cryptocurrency prices (`BTC-USD`, `ETH-USD`, `ADA-USD`) using the **Coinbase WebSocket API**.
 - Implemented a **Kafka Producer** to ingest and forward JSON payloads into **Azure Event Hubs**, maintaining high-throughput, low-latency data flow.
 - Utilized **Azure Databricks** and **Structured Streaming (PySpark)** to process Kafka events, convert timestamps, apply watermarks, and perform windowed aggregations.
