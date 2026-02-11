@@ -1,6 +1,6 @@
 ## EDUCATION
 
-**B.A. -  UNIVERSITY OF WASHINGTON, SEATTLE, WA - 2018**  
+**BA -  UNIVERSITY OF WASHINGTON, SEATTLE, WA - 2018**  
 _August 2018_  
 - Bachelor of Arts in Chemistry  
 - Bachelor of Arts in Medical Anthropology & Global Health  
@@ -11,6 +11,9 @@ _August 2018_
 - UW PCE<sup>[1](https://github.com/chrish47-afk/chrish47-afk.github.io/blob/main/images/UW_SQL.jpeg) [2](https://www.pce.uw.edu/certificates/sql-server-database-development)</sup>, Certificate in SQL Server Development (2022)  
 - ChatGPT for Data Analytics with Luke Barousse (2024)  
 - UW PCE<sup>[1](https://www.pce.uw.edu/certificates/big-data-technologies)</sup>, Certificate in Big Data Technologies, Part I and II (2024-2025)  
+
+**MBA -  EASTERN WASHINGTON UNIVERSITY - 2026-2027**  
+- MBA with Data Analytics Concentration  
 
 ---
 
