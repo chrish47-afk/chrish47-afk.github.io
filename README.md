@@ -13,7 +13,7 @@ _August 2018_
 - UW PCE<sup>[1](https://www.pce.uw.edu/certificates/big-data-technologies)</sup>, Certificate in Big Data Technologies, Part I and II (2024-2025)  
 
 **MBA -  EASTERN WASHINGTON UNIVERSITY - 2026-2027**  
-- MBA with Data Analytics Concentration  
+- Master of Business Administration with a Data Analytics Concentration    
 
 ---
 
